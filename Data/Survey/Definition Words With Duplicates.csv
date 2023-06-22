@@ -1,0 +1,539 @@
+,Word,Frequency,Words,Respondents,Shared
+0,of,119,Stopword,Everyone,Common
+1,or,103,Stopword,Everyone,Common
+2,the,90,Stopword,Everyone,Common
+3,for,71,Stopword,Everyone,Common
+4,and,69,Stopword,Everyone,Common
+5,to,67,Stopword,Everyone,Common
+6,people,44,Significant,Everyone,Common
+7,labor,41,Significant,Everyone,Common
+8,sex,41,Significant,Everyone,Common
+9,a,40,Stopword,Everyone,Common
+10,sexual,34,Significant,Everyone,Common
+11,their,30,Stopword,Everyone,Common
+12,will,30,Stopword,Everyone,Common
+13,exploitation,30,Significant,Everyone,Common
+14,in,29,Stopword,Everyone,Common
+15,forced,28,Significant,Everyone,Common
+16,slavery,28,Significant,Everyone,Common
+17,human,28,Significant,Everyone,Common
+18,coercion,27,Significant,Everyone,Common
+19,humans,26,Significant,Everyone,Common
+20,against,26,Stopword,Everyone,Common
+21,is,25,Stopword,Everyone,Common
+22,as,22,Stopword,Everyone,Common
+23,force,22,Significant,Everyone,Common
+24,selling,21,Significant,Everyone,Common
+25,person,20,Significant,Everyone,Common
+26,it,19,Stopword,Everyone,Common
+27,being,18,Stopword,Everyone,Common
+28,are,17,Stopword,Everyone,Common
+29,illegal,16,Significant,Everyone,Common
+30,gain,16,Significant,Everyone,Common
+31,trafficking,16,Significant,Everyone,Common
+32,fraud,16,Significant,Currently Involved,Unique
+33,use,15,Significant,Everyone,Common
+34,them,15,Stopword,Everyone,Common
+35,kidnapping,13,Significant,Everyone,Common
+36,that,12,Stopword,Everyone,Common
+37,other,12,Stopword,Everyone,Common
+38,through,12,Stopword,Everyone,Common
+39,from,12,Stopword,Everyone,Common
+40,work,12,Significant,Everyone,Common
+41,someone,12,Significant,Everyone,Common
+42,money,11,Significant,Everyone,Common
+43,purposes,11,Significant,Everyone,Common
+44,be,11,Stopword,Everyone,Common
+45,not,11,Stopword,Everyone,Common
+46,do,11,Stopword,Everyone,Common
+47,commercial,11,Significant,Currently Involved,Unique
+48,using,10,Significant,Everyone,Common
+49,act,10,Significant,Everyone,Common
+50,benefit,10,Significant,Everyone,Common
+51,trading,10,Significant,Everyone,Common
+52,they,10,Stopword,Everyone,Common
+53,purpose,10,Significant,Everyone,Common
+54,into,10,Stopword,Everyone,Common
+55,another,10,Significant,Everyone,Common
+56,by,10,Stopword,Everyone,Common
+57,where,9,Stopword,Everyone,Common
+58,s,9,Stopword,Everyone,Common
+59,etc,8,Significant,Everyone,Common
+60,without,8,Significant,Everyone,Common
+61,services,8,Significant,Everyone,Common
+62,trade,8,Significant,Everyone,Common
+63,acts,8,Significant,Everyone,Common
+64,with,8,Stopword,Everyone,Common
+65,taken,7,Significant,Not Currently Involved,Unique
+66,an,7,Stopword,Everyone,Common
+67,modern,7,Significant,Everyone,Common
+68,i,7,Stopword,Everyone,Common
+69,abuse,7,Significant,Everyone,Common
+70,one,7,Significant,Everyone,Common
+71,financial,6,Significant,Everyone,Common
+72,form,6,Significant,Not Currently Involved,Unique
+73,profit,6,Significant,Not Currently Involved,Unique
+74,can,6,Stopword,Everyone,Common
+75,under,6,Stopword,Everyone,Common
+76,children,6,Significant,Everyone,Common
+77,prostitution,6,Significant,Everyone,Common
+78,sold,6,Significant,Not Currently Involved,Unique
+79,beings,6,Significant,Everyone,Common
+80,activities,5,Significant,Everyone,Common
+81,control,5,Significant,Everyone,Common
+82,exchange,5,Significant,Everyone,Common
+83,transportation,5,Significant,Everyone,Common
+84,illegally,5,Significant,Not Currently Involved,Unique
+85,coercing,5,Significant,Everyone,Common
+86,typically,5,Significant,Everyone,Common
+87,some,5,Stopword,Everyone,Common
+88,who,5,Stopword,Everyone,Common
+89,country,5,Significant,Not Currently Involved,Unique
+90,taking,5,Significant,Not Currently Involved,Unique
+91,often,5,Significant,Everyone,Common
+92,slave,5,Significant,Everyone,Common
+93,like,5,Significant,Everyone,Common
+94,consent,5,Significant,Everyone,Common
+95,when,5,Stopword,Everyone,Common
+96,manipulated,5,Significant,Everyone,Common
+97,something,5,Significant,Everyone,Common
+98,any,5,Stopword,Everyone,Common
+99,all,5,Stopword,Not Currently Involved,Unique
+100,involves,5,Significant,Everyone,Common
+101,across,4,Significant,Not Currently Involved,Unique
+102,borders,4,Significant,Not Currently Involved,Unique
+103,unlawful,4,Significant,Not Currently Involved,Unique
+104,transporting,4,Significant,Everyone,Common
+105,personal,4,Significant,Not Currently Involved,Unique
+106,your,4,Stopword,Everyone,Common
+107,used,4,Significant,Everyone,Common
+108,order,4,Significant,Everyone,Common
+109,forcing,4,Significant,Everyone,Common
+110,engage,4,Significant,Currently Involved,Unique
+111,such,4,Stopword,Everyone,Common
+112,girls,4,Significant,Everyone,Common
+113,related,4,Significant,Not Currently Involved,Unique
+114,inhumane,4,Significant,Not Currently Involved,Unique
+115,well,4,Significant,Everyone,Common
+116,abduction,4,Significant,Everyone,Common
+117,enslavement,4,Significant,Everyone,Common
+118,grooming,4,Significant,Everyone,Common
+119,which,4,Stopword,Currently Involved,Unique
+120,exploiting,4,Significant,Everyone,Common
+121,others,4,Significant,Everyone,Common
+122,crime,4,Significant,Everyone,Common
+123,definition,4,Significant,Currently Involved,Unique
+124,things,4,Significant,Everyone,Common
+125,very,4,Stopword,Everyone,Common
+126,18,4,Significant,Currently Involved,Unique
+127,own,4,Stopword,Everyone,Common
+128,moving,3,Significant,Not Currently Involved,Unique
+129,you,3,Stopword,Everyone,Common
+130,have,3,Stopword,Not Currently Involved,Unique
+131,even,3,Significant,Not Currently Involved,Unique
+132,obtain,3,Significant,Everyone,Common
+133,activity,3,Significant,Everyone,Common
+134,organ,3,Significant,Everyone,Common
+135,coerced,3,Significant,Everyone,Common
+136,perform,3,Significant,Everyone,Common
+137,transport,3,Significant,Not Currently Involved,Unique
+138,financially,3,Significant,Everyone,Common
+139,usually,3,Significant,Everyone,Common
+140,young,3,Significant,Everyone,Common
+141,monetary,3,Significant,Not Currently Involved,Unique
+142,value,3,Significant,Everyone,Common
+143,sell,3,Significant,Everyone,Common
+144,persons,3,Significant,Everyone,Common
+145,exploited,3,Significant,Everyone,Common
+146,else,3,Significant,Everyone,Common
+147,movement,3,Significant,Everyone,Common
+148,victims,3,Significant,Not Currently Involved,Unique
+149,individual,3,Significant,Everyone,Common
+150,physical,3,Significant,Everyone,Common
+151,either,3,Significant,Not Currently Involved,Unique
+152,manipulation,3,Significant,Everyone,Common
+153,above,3,Stopword,Everyone,Common
+154,made,3,Significant,Everyone,Common
+155,child,3,Significant,Everyone,Common
+156,would,3,Significant,Currently Involved,Unique
+157,ht,3,Significant,Currently Involved,Unique
+158,including,3,Significant,Everyone,Common
+159,criminal,3,Significant,Everyone,Common
+160,type,3,Significant,Everyone,Common
+161,harboring,3,Significant,Currently Involved,Unique
+162,means,3,Significant,Currently Involved,Unique
+163,day,3,Significant,Everyone,Common
+164,product,2,Significant,Not Currently Involved,Unique
+165,relocation,2,Significant,Not Currently Involved,Unique
+166,around,2,Significant,Not Currently Involved,Unique
+167,commodity,2,Significant,Everyone,Common
+168,somewhere,2,Significant,Not Currently Involved,Unique
+169,moved,2,Significant,Not Currently Involved,Unique
+170,themselves,2,Stopword,Not Currently Involved,Unique
+171,service,2,Significant,Everyone,Common
+172,on,2,Stopword,Everyone,Common
+173,advantage,2,Significant,Not Currently Involved,Unique
+174,pleasure,2,Significant,Not Currently Involved,Unique
+175,goods,2,Significant,Not Currently Involved,Unique
+176,believe,2,Significant,Everyone,Common
+177,defined,2,Significant,Currently Involved,Unique
+178,tasks,2,Significant,Not Currently Involved,Unique
+179,free,2,Significant,Everyone,Common
+180,his,2,Stopword,Not Currently Involved,Unique
+181,her,2,Stopword,Not Currently Involved,Unique
+182,anything,2,Significant,Not Currently Involved,Unique
+183,assault,2,Significant,Not Currently Involved,Unique
+184,little,2,Significant,Not Currently Involved,Unique
+185,women,2,Significant,Everyone,Common
+186,sent,2,Significant,Not Currently Involved,Unique
+187,slaves,2,Significant,Not Currently Involved,Unique
+188,kidnap,2,Significant,Not Currently Involved,Unique
+189,has,2,Stopword,Everyone,Common
+190,sale,2,Significant,Currently Involved,Unique
+191,individuals,2,Significant,Currently Involved,Unique
+192,adults,2,Significant,Everyone,Common
+193,take,2,Significant,Everyone,Common
+194,times,2,Significant,Currently Involved,Unique
+195,immoral,2,Significant,Everyone,Common
+196,victim,2,Significant,Everyone,Common
+197,female,2,Significant,Not Currently Involved,Unique
+198,abusive,2,Significant,Not Currently Involved,Unique
+199,benefits,2,Significant,Everyone,Common
+200,involved,2,Significant,Everyone,Common
+201,sexually,2,Significant,Not Currently Involved,Unique
+202,kidnapped,2,Significant,Not Currently Involved,Unique
+203,no,2,Stopword,Everyone,Common
+204,bought,2,Significant,Not Currently Involved,Unique
+205,making,2,Significant,Not Currently Involved,Unique
+206,vulnerable,2,Significant,Not Currently Involved,Unique
+207,bodies,2,Significant,Not Currently Involved,Unique
+208,religion,2,Significant,Everyone,Common
+209,unethical,2,Significant,Not Currently Involved,Unique
+210,profiting,2,Significant,Currently Involved,Unique
+211,off,2,Stopword,Everyone,Common
+212,business,2,Significant,Everyone,Common
+213,require,2,Significant,Everyone,Common
+214,place,2,Significant,Not Currently Involved,Unique
+215,war,2,Significant,Everyone,Common
+216,include,2,Significant,Currently Involved,Unique
+217,marriage,2,Significant,Currently Involved,Unique
+218,this,2,Stopword,Currently Involved,Unique
+219,drug,2,Significant,Not Currently Involved,Unique
+220,recruitment,2,Significant,Currently Involved,Unique
+221,obtaining,2,Significant,Currently Involved,Unique
+222,but,2,Stopword,Everyone,Common
+223,after,2,Stopword,Currently Involved,Unique
+224,years,2,Significant,Currently Involved,Unique
+225,now,2,Stopword,Everyone,Common
+226,its,2,Stopword,Currently Involved,Unique
+227,trauma,2,Significant,Currently Involved,Unique
+228,life,2,Significant,Everyone,Common
+229,define,2,Significant,Currently Involved,Unique
+230,choice,2,Significant,Everyone,Common
+231,traffickers,2,Significant,Everyone,Common
+232,get,2,Significant,Everyone,Common
+233,age,2,Significant,Currently Involved,Unique
+234,working,2,Significant,Everyone,Common
+235,treated,2,Significant,Everyone,Common
+236,actions,2,Significant,Currently Involved,Unique
+237,family,2,Significant,Currently Involved,Unique
+238,member,2,Significant,Currently Involved,Unique
+239,food,2,Significant,Currently Involved,Unique
+240,shelter,2,Significant,Currently Involved,Unique
+241,drugs,2,Significant,Currently Involved,Unique
+242,case,2,Significant,Currently Involved,Unique
+243,sometimes,2,Significant,Everyone,Common
+244,cruel,2,Significant,Not Currently Involved,Unique
+245,want,2,Significant,Currently Involved,Unique
+246,rights,2,Significant,Everyone,Common
+247,too,2,Stopword,Not Currently Involved,Unique
+248,objects,2,Significant,Currently Involved,Unique
+249,involve,1,Significant,Not Currently Involved,Unique
+250,whether,1,Significant,Not Currently Involved,Unique
+251,forcibly,1,Significant,Not Currently Involved,Unique
+252,lied,1,Significant,Not Currently Involved,Unique
+253,about,1,Stopword,Not Currently Involved,Unique
+254,going,1,Significant,Not Currently Involved,Unique
+255,both,1,Stopword,Not Currently Involved,Unique
+256,supposed,1,Significant,Not Currently Involved,Unique
+257,traffic,1,Significant,Not Currently Involved,Unique
+258,substances,1,Significant,Not Currently Involved,Unique
+259,group,1,Significant,Not Currently Involved,Unique
+260,makes,1,Significant,Not Currently Involved,Unique
+261,broadly,1,Significant,Currently Involved,Unique
+262,multiple,1,Significant,Currently Involved,Unique
+263,coordinating,1,Significant,Currently Involved,Unique
+264,these,1,Stopword,Currently Involved,Unique
+265,harvesting,1,Significant,Currently Involved,Unique
+266,transported,1,Significant,Not Currently Involved,Unique
+267,inside,1,Significant,Not Currently Involved,Unique
+268,outside,1,Significant,Not Currently Involved,Unique
+269,city,1,Significant,Not Currently Involved,Unique
+270,live,1,Significant,Not Currently Involved,Unique
+271,am,1,Stopword,Not Currently Involved,Unique
+272,sure,1,Significant,Not Currently Involved,Unique
+273,enslaved,1,Significant,Not Currently Involved,Unique
+274,cooking,1,Significant,Not Currently Involved,Unique
+275,keep,1,Significant,Not Currently Involved,Unique
+276,ands,1,Significant,Not Currently Involved,Unique
+277,places,1,Significant,Not Currently Involved,Unique
+278,far,1,Significant,Not Currently Involved,Unique
+279,home,1,Significant,Not Currently Involved,Unique
+280,abused,1,Significant,Not Currently Involved,Unique
+281,problem,1,Significant,Not Currently Involved,Unique
+282,hidden,1,Significant,Not Currently Involved,Unique
+283,holding,1,Significant,Not Currently Involved,Unique
+284,object,1,Significant,Not Currently Involved,Unique
+285,purchase,1,Significant,Currently Involved,Unique
+286,method,1,Significant,Not Currently Involved,Unique
+287,teenagers,1,Significant,Not Currently Involved,Unique
+288,shipping,1,Significant,Not Currently Involved,Unique
+289,cargo,1,Significant,Not Currently Involved,Unique
+290,nefarious,1,Significant,Not Currently Involved,Unique
+291,most,1,Stopword,Not Currently Involved,Unique
+292,inhuman,1,Significant,Currently Involved,Unique
+293,many,1,Significant,Currently Involved,Unique
+294,forms,1,Significant,Currently Involved,Unique
+295,hard,1,Significant,Currently Involved,Unique
+296,detect,1,Significant,Currently Involved,Unique
+297,at,1,Stopword,Currently Involved,Unique
+298,involuntary,1,Significant,Not Currently Involved,Unique
+299,possessor,1,Significant,Not Currently Involved,Unique
+300,otherwise,1,Significant,Not Currently Involved,Unique
+301,humiliating,1,Significant,Not Currently Involved,Unique
+302,dominance,1,Significant,Not Currently Involved,Unique
+303,drugged,1,Significant,Not Currently Involved,Unique
+304,compliance,1,Significant,Not Currently Involved,Unique
+305,prisoner,1,Significant,Not Currently Involved,Unique
+306,assaulted,1,Significant,Not Currently Involved,Unique
+307,subdued,1,Significant,Not Currently Involved,Unique
+308,process,1,Significant,Not Currently Involved,Unique
+309,abducting,1,Significant,Not Currently Involved,Unique
+310,donation,1,Significant,Not Currently Involved,Unique
+311,forcefully,1,Significant,Not Currently Involved,Unique
+312,mental,1,Significant,Not Currently Involved,Unique
+313,threatened,1,Significant,Not Currently Involved,Unique
+314,situation,1,Significant,Not Currently Involved,Unique
+315,say,1,Significant,Not Currently Involved,Unique
+316,over,1,Stopword,Not Currently Involved,Unique
+317,lives,1,Significant,Not Currently Involved,Unique
+318,treating,1,Significant,Not Currently Involved,Unique
+319,association,1,Significant,Currently Involved,Unique
+320,drugging,1,Significant,Not Currently Involved,Unique
+321,blackmail,1,Significant,Not Currently Involved,Unique
+322,male,1,Significant,Not Currently Involved,Unique
+323,knowingly,1,Significant,Not Currently Involved,Unique
+324,unknowingly,1,Significant,Not Currently Involved,Unique
+325,unpaid,1,Significant,Not Currently Involved,Unique
+326,pay,1,Significant,Not Currently Involved,Unique
+327,mostly,1,Significant,Not Currently Involved,Unique
+328,been,1,Stopword,Not Currently Involved,Unique
+329,gratification,1,Significant,Not Currently Involved,Unique
+330,lot,1,Significant,Not Currently Involved,Unique
+331,unwanted,1,Significant,Not Currently Involved,Unique
+332,make,1,Significant,Not Currently Involved,Unique
+333,lack,1,Significant,Not Currently Involved,Unique
+334,unholy,1,Significant,Not Currently Involved,Unique
+335,hurtful,1,Significant,Not Currently Involved,Unique
+336,victimize,1,Significant,Not Currently Involved,Unique
+337,enslave,1,Significant,Not Currently Involved,Unique
+338,perverted,1,Significant,Not Currently Involved,Unique
+339,owners,1,Significant,Not Currently Involved,Unique
+340,power,1,Significant,Not Currently Involved,Unique
+341,evil,1,Significant,Currently Involved,Unique
+342,various,1,Significant,Not Currently Involved,Unique
+343,need,1,Significant,Not Currently Involved,Unique
+344,jobs,1,Significant,Not Currently Involved,Unique
+345,move,1,Significant,Not Currently Involved,Unique
+346,while,1,Stopword,Not Currently Involved,Unique
+347,non,1,Significant,Not Currently Involved,Unique
+348,humanitarian,1,Significant,Not Currently Involved,Unique
+349,mafia,1,Significant,Not Currently Involved,Unique
+350,poverty,1,Significant,Not Currently Involved,Unique
+351,violence,1,Significant,Not Currently Involved,Unique
+352,international,1,Significant,Not Currently Involved,Unique
+353,hope,1,Significant,Not Currently Involved,Unique
+354,ransom,1,Significant,Not Currently Involved,Unique
+355,trap,1,Significant,Currently Involved,Unique
+356,give,1,Significant,Currently Involved,Unique
+357,basically,1,Significant,Currently Involved,Unique
+358,mistreatment,1,Significant,Not Currently Involved,Unique
+359,examples,1,Significant,Not Currently Involved,Unique
+360,involvement,1,Significant,Not Currently Involved,Unique
+361,treatment,1,Significant,Not Currently Involved,Unique
+362,regard,1,Significant,Not Currently Involved,Unique
+363,threats,1,Significant,Not Currently Involved,Unique
+364,said,1,Significant,Not Currently Involved,Unique
+365,terms,1,Significant,Not Currently Involved,Unique
+366,predatory,1,Significant,Not Currently Involved,Unique
+367,immigration,1,Significant,Not Currently Involved,Unique
+368,forcible,1,Significant,Currently Involved,Unique
+369,permission,1,Significant,Currently Involved,Unique
+370,exploration,1,Significant,Currently Involved,Unique
+371,forces,1,Significant,Currently Involved,Unique
+372,coerces,1,Significant,Currently Involved,Unique
+373,servitude,1,Significant,Currently Involved,Unique
+374,kind,1,Significant,Currently Involved,Unique
+375,freely,1,Significant,Currently Involved,Unique
+376,given,1,Significant,Currently Involved,Unique
+377,especially,1,Significant,Currently Involved,Unique
+378,perpetrator,1,Significant,Currently Involved,Unique
+379,general,1,Significant,Currently Involved,Unique
+380,entire,1,Significant,Currently Involved,Unique
+381,network,1,Significant,Currently Involved,Unique
+382,organizations,1,Significant,Currently Involved,Unique
+383,capture,1,Significant,Currently Involved,Unique
+384,confinement,1,Significant,Currently Involved,Unique
+385,survivor,1,Significant,Currently Involved,Unique
+386,adult,1,Significant,Not Currently Involved,Unique
+387,youth,1,Significant,Not Currently Involved,Unique
+388,infants,1,Significant,Not Currently Involved,Unique
+389,limited,1,Significant,Not Currently Involved,Unique
+390,walking,1,Significant,Currently Involved,Unique
+391,survivors,1,Significant,Currently Involved,Unique
+392,few,1,Stopword,Currently Involved,Unique
+393,might,1,Significant,Currently Involved,Unique
+394,broaden,1,Significant,Currently Involved,Unique
+395,impact,1,Significant,Currently Involved,Unique
+396,complex,1,Significant,Currently Involved,Unique
+397,ptsd,1,Significant,Currently Involved,Unique
+398,housing,1,Significant,Currently Involved,Unique
+399,instability,1,Significant,Currently Involved,Unique
+400,high,1,Significant,Currently Involved,Unique
+401,probability,1,Significant,Currently Involved,Unique
+402,re,1,Stopword,Currently Involved,Unique
+403,victimization,1,Significant,Currently Involved,Unique
+404,challenging,1,Significant,Currently Involved,Unique
+405,road,1,Significant,Currently Involved,Unique
+406,rebuilding,1,Significant,Currently Involved,Unique
+407,exiting,1,Significant,Currently Involved,Unique
+408,initially,1,Significant,Currently Involved,Unique
+409,probably,1,Significant,Currently Involved,Unique
+410,legal,1,Significant,Currently Involved,Unique
+411,speaks,1,Significant,Currently Involved,Unique
+412,recruiting,1,Significant,Currently Involved,Unique
+413,providing,1,Significant,Currently Involved,Unique
+414,patronizing,1,Significant,Currently Involved,Unique
+415,soliciting,1,Significant,Currently Involved,Unique
+416,feel,1,Significant,Currently Involved,Unique
+417,survive,1,Significant,Currently Involved,Unique
+418,manual,1,Significant,Not Currently Involved,Unique
+419,enter,1,Significant,Not Currently Involved,Unique
+420,relationships,1,Significant,Not Currently Involved,Unique
+421,so,1,Stopword,Not Currently Involved,Unique
+422,deceptive,1,Significant,Not Currently Involved,Unique
+423,tricking,1,Significant,Not Currently Involved,Unique
+424,lots,1,Significant,Not Currently Involved,Unique
+425,knowing,1,Significant,Not Currently Involved,Unique
+426,affect,1,Significant,Not Currently Involved,Unique
+427,later,1,Significant,Not Currently Involved,Unique
+428,trapped,1,Significant,Not Currently Involved,Unique
+429,luring,1,Significant,Currently Involved,Unique
+430,amp,1,Significant,Currently Involved,Unique
+431,model,1,Significant,Currently Involved,Unique
+432,proof,1,Significant,Currently Involved,Unique
+433,unless,1,Significant,Currently Involved,Unique
+434,organs,1,Significant,Currently Involved,Unique
+435,received,1,Significant,Currently Involved,Unique
+436,paid,1,Significant,Currently Involved,Unique
+437,accordingly,1,Significant,Currently Involved,Unique
+438,reduced,1,Significant,Currently Involved,Unique
+439,beneficiary,1,Significant,Currently Involved,Unique
+440,those,1,Stopword,Currently Involved,Unique
+441,pays,1,Significant,Currently Involved,Unique
+442,enslaver,1,Significant,Currently Involved,Unique
+443,turn,1,Significant,Currently Involved,Unique
+444,products,1,Significant,Currently Involved,Unique
+445,bring,1,Significant,Currently Involved,Unique
+446,intimidation,1,Significant,Currently Involved,Unique
+447,prostituted,1,Significant,Currently Involved,Unique
+448,boyfriend,1,Significant,Currently Involved,Unique
+449,pimp,1,Significant,Currently Involved,Unique
+450,survival,1,Significant,Currently Involved,Unique
+451,alcohol,1,Significant,Currently Involved,Unique
+452,legally,1,Significant,Currently Involved,Unique
+453,if,1,Stopword,Currently Involved,Unique
+454,year,1,Significant,Currently Involved,Unique
+455,old,1,Significant,Currently Involved,Unique
+456,csec,1,Significant,Currently Involved,Unique
+457,subject,1,Significant,Currently Involved,Unique
+458,pornography,1,Significant,Currently Involved,Unique
+459,stripping,1,Significant,Currently Involved,Unique
+460,illicit,1,Significant,Currently Involved,Unique
+461,massage,1,Significant,Currently Involved,Unique
+462,parlors,1,Significant,Currently Involved,Unique
+463,escort,1,Significant,Currently Involved,Unique
+464,mail,1,Significant,Currently Involved,Unique
+465,bride,1,Significant,Currently Involved,Unique
+466,refugee,1,Significant,Currently Involved,Unique
+467,immigrant,1,Significant,Currently Involved,Unique
+468,looks,1,Significant,Currently Involved,Unique
+469,different,1,Significant,Currently Involved,Unique
+470,trafficker,1,Significant,Currently Involved,Unique
+471,uses,1,Significant,Currently Involved,Unique
+472,entrapment,1,Significant,Currently Involved,Unique
+473,close,1,Significant,Currently Involved,Unique
+474,friend,1,Significant,Currently Involved,Unique
+475,circumstances,1,Significant,Currently Involved,Unique
+476,guilt,1,Significant,Currently Involved,Unique
+477,regionally,1,Significant,Not Currently Involved,Unique
+478,gaining,1,Significant,Not Currently Involved,Unique
+479,code,1,Significant,Currently Involved,Unique
+480,canada,1,Significant,Currently Involved,Unique
+481,movements,1,Significant,Currently Involved,Unique
+482,un,1,Significant,Currently Involved,Unique
+483,action,1,Significant,Currently Involved,Unique
+484,insidious,1,Significant,Currently Involved,Unique
+485,reported,1,Significant,Currently Involved,Unique
+486,overlooked,1,Significant,Currently Involved,Unique
+487,stigma,1,Significant,Currently Involved,Unique
+488,vulnerabilities,1,Significant,Currently Involved,Unique
+489,material,1,Significant,Currently Involved,Unique
+490,compensated,1,Significant,Not Currently Involved,Unique
+491,dehumanizing,1,Significant,Not Currently Involved,Unique
+492,compelled,1,Significant,Currently Involved,Unique
+493,tricked,1,Significant,Currently Involved,Unique
+494,describe,1,Significant,Not Currently Involved,Unique
+495,theft,1,Significant,Not Currently Involved,Unique
+496,souls,1,Significant,Not Currently Involved,Unique
+497,simply,1,Significant,Currently Involved,Unique
+498,participant,1,Significant,Currently Involved,Unique
+499,offensive,1,Significant,Not Currently Involved,Unique
+500,cannot,1,Significant,Currently Involved,Unique
+501,flee,1,Significant,Currently Involved,Unique
+502,compelling,1,Significant,Currently Involved,Unique
+503,provide,1,Significant,Currently Involved,Unique
+504,subtle,1,Significant,Currently Involved,Unique
+505,overt,1,Significant,Currently Involved,Unique
+506,psychological,1,Significant,Currently Involved,Unique
+507,sad,1,Significant,Not Currently Involved,Unique
+508,how,1,Stopword,Not Currently Involved,Unique
+509,just,1,Stopword,Not Currently Involved,Unique
+510,prisoners,1,Significant,Not Currently Involved,Unique
+511,organized,1,Significant,Not Currently Involved,Unique
+512,piece,1,Significant,Not Currently Involved,Unique
+513,merchandise,1,Significant,Not Currently Involved,Unique
+514,transaction,1,Significant,Not Currently Involved,Unique
+515,moves,1,Significant,Not Currently Involved,Unique
+516,developing,1,Significant,Not Currently Involved,Unique
+517,wealthier,1,Significant,Not Currently Involved,Unique
+518,scammed,1,Significant,Not Currently Involved,Unique
+519,believing,1,Significant,Not Currently Involved,Unique
+520,migrating,1,Significant,Not Currently Involved,Unique
+521,better,1,Significant,Not Currently Involved,Unique
+522,realize,1,Significant,Not Currently Involved,Unique
+523,until,1,Stopword,Not Currently Involved,Unique
+524,late,1,Significant,Not Currently Involved,Unique
+525,common,1,Significant,Not Currently Involved,Unique
+526,example,1,Significant,Not Currently Involved,Unique
+527,abroad,1,Significant,Not Currently Involved,Unique
+528,abusing,1,Significant,Not Currently Involved,Unique
+529,buying,1,Significant,Not Currently Involved,Unique
+530,dignity,1,Significant,Not Currently Involved,Unique
+531,offense,1,Significant,Currently Involved,Unique
+532,highly,1,Significant,Currently Involved,Unique
+533,traded,1,Significant,Currently Involved,Unique
+534,arranging,1,Significant,Not Currently Involved,Unique
+535,sort,1,Significant,Not Currently Involved,Unique
+536,ones,1,Significant,Currently Involved,Unique
+537,then,1,Stopword,Currently Involved,Unique
