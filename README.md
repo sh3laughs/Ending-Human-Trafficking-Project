@@ -7,7 +7,8 @@ Analysis of human trafficking awareness and presence in the United States based 
 -----
 
 ## Summary
-Trafficking crime arrests vary significantly based on
+
+### Trafficking crime arrests vary significantly based on
 * State – the five states with highest reported totoal number of trafficking crime arrests are:
      * Texas: 186,548
      * Nevada: 67,023
@@ -24,7 +25,7 @@ Trafficking crime arrests vary significantly based on
 * Certain demographic factors like population size, number of households, education level of the population, or household computers/ devices
 <img style="display: inline; margin: 0 5px;" title="Project Header" src="Images/Grad Presentation Visuals.gif" alt="" width="1000" height="500"/>
 
-People’s perception about and definitions of human trafficking vary – particularly based on whether or not they’re actively involved in fighting human trafficking
+### People’s perception about and definitions of human trafficking vary – particularly based on whether or not they’re actively involved in fighting human trafficking
 * People who are not currently involved in fighting human trafficking are more likely than people who are currently involved to think that:
      * a higher percentage of children are trafficked
      * traffickers are most often strangers
